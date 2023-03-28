@@ -1,4 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿//=================================================
+//Copyright (c) Coalition of Good-Hearted-Engineers
+//Feel Free to Use It
+//=================================================
+using Microsoft.AspNetCore.Mvc;
 using RESTFulSense.Controllers;
 
 namespace Sheenam.Api.Controllers
