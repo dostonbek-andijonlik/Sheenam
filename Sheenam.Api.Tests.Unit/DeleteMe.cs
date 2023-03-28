@@ -1,4 +1,8 @@
-﻿using Xunit;
+﻿//=================================================
+//Copyright (c) Coalition of Good-Hearted-Engineers
+//Feel Free to Use It
+//=================================================
+using Xunit;
 
 namespace Sheenam.Api.Tests.Unit
 {
