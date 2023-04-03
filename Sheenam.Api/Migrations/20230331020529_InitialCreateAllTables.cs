@@ -9,6 +9,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Sheenam.Api.Migrations
 {
     /// <inheritdoc />
+    
     public partial class InitialCreateAllTables : Migration
     {
         /// <inheritdoc />
